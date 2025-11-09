@@ -1,0 +1,15 @@
+# Volumes de dados persistentes
+n8n_data/
+caddy_data/
+caddy_config/
+
+# Variáveis locais e chaves
+.env
+*.pem
+*.key
+*.crt
+
+# Logs e arquivos temporários
+*.log
+*.sqlite
+*.bak
